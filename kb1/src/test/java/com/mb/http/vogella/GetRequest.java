@@ -10,6 +10,8 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
 /**
  * Created by m.bova on 12/23/2014.
+ * Apache HttpClient - Tutorial
+ * http://www.vogella.com/tutorials/ApacheHttpClient/article.html
  */
 public class GetRequest {
     public static void main(String[] args) {
