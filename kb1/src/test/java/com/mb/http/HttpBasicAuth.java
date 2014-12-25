@@ -17,7 +17,9 @@ public class HttpBasicAuth {
 
 
         try {
+            ///
             URL url = new URL ("http://localhost:7777/portalserver/login/loginDashboard.jsp?login_error=logout");
+            ///URL url = new URL ("http://localhost:7777/portalserver/portals/dashboard/pages/index");
 
             String orig = "admin:admin";
 
